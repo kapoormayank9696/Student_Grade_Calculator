@@ -4,7 +4,7 @@ A simple **Student Grade Calculator** built to calculate the total marks, percen
 
 ---
 
-## 📌 Features
+# 📌 Features
 
 - Enter student details
 - Input marks for multiple subjects
@@ -16,7 +16,7 @@ A simple **Student Grade Calculator** built to calculate the total marks, percen
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Programming Language: Java
 - IDE: IntelliJ IDEA / Eclipse / VS Code
@@ -24,12 +24,14 @@ A simple **Student Grade Calculator** built to calculate the total marks, percen
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 StudentGradeCalculator/
 │
 ├── src/
+│
+│
 │   └── StudentGradeCalculator.java
 │
 ├── README.md
@@ -43,7 +45,7 @@ StudentGradeCalculator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-grade-calculator.git
+git clone https://github.com/kapoormayank9696/student-grade-calculator.git
 ```
 
 2. Open the project in your preferred Java IDE.
