@@ -30,9 +30,9 @@ A simple **Student Grade Calculator** built to calculate the total marks, percen
 StudentGradeCalculator/
 │
 ├── src/
-│
-│
-│   └── StudentGradeCalculator.java
+│├── GradeCalculator.java
+│├── Main.java
+│└── Student.java
 │
 ├── README.md
 └── .gitignore
