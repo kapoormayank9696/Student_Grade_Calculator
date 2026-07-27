@@ -136,9 +136,9 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mayank Kapoor**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/kapoormayank9696
 
 ---
 
