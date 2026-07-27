@@ -1,6 +1,6 @@
 # 🎓 Student Grade Calculator
 
-A simple **Student Grade Calculator** built to calculate the total marks, percentage, grade, and pass/fail status of a student based on marks entered for multiple subjects. This project demonstrates basic programming concepts such as input handling, arithmetic operations, conditional statements, and loops.
+A simple **Student Grade Calculator** built in **Java** to calculate a student's total marks, percentage, grade, and pass/fail status based on marks entered for multiple subjects. This project demonstrates core Java programming concepts such as object-oriented programming (OOP), user input handling, loops, conditional statements, and arithmetic operations.
 
 ---
 
@@ -10,29 +10,30 @@ A simple **Student Grade Calculator** built to calculate the total marks, percen
 - Input marks for multiple subjects
 - Calculate total marks
 - Calculate percentage
-- Assign grades automatically
+- Automatically assign grades
 - Display Pass/Fail status
-- User-friendly console output
+- User-friendly console application
+- Object-Oriented Programming (OOP) implementation
 
 ---
 
 # 🛠️ Technologies Used
 
-- Programming Language: Java
-- IDE: IntelliJ IDEA / Eclipse / VS Code
-- JDK: Java 8 or above
+- **Programming Language:** Java
+- **IDE:** IntelliJ IDEA / Eclipse / VS Code
+- **JDK:** Java 8 or above
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 StudentGradeCalculator/
 │
 ├── src/
-│├── GradeCalculator.java
-│├── Main.java
-│└── Student.java
+│   ├── Main.java
+│   ├── Student.java
+│   └── GradeCalculator.java
 │
 ├── README.md
 └── .gitignore
@@ -40,33 +41,37 @@ StudentGradeCalculator/
 
 ---
 
-## 🚀 How to Run
+# 🚀 How to Run
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/kapoormayank9696/student-grade-calculator.git
 ```
 
-2. Open the project in your preferred Java IDE.
-
-3. Compile the program:
+### 2. Navigate to the project directory
 
 ```bash
-javac StudentGradeCalculator.java
+cd student-grade-calculator
 ```
 
-4. Run the program:
+### 3. Compile the Java files
 
 ```bash
-java StudentGradeCalculator
+javac src/*.java
+```
+
+### 4. Run the application
+
+```bash
+java -cp src Main
 ```
 
 ---
 
-## 📖 Sample Output
+# 📖 Sample Output
 
-```
+```text
 Enter Student Name: John
 
 Enter marks for 5 subjects:
@@ -77,7 +82,7 @@ Subject 4: 92
 Subject 5: 88
 
 Total Marks: 433
-Percentage: 86.6%
+Percentage: 86.60%
 
 Grade: A
 
@@ -86,60 +91,61 @@ Result: PASS
 
 ---
 
-## 📊 Grade Criteria
+# 📊 Grade Criteria
 
 | Percentage | Grade |
 |------------|-------|
-| 90–100 | A+ |
-| 80–89 | A |
-| 70–79 | B |
-| 60–69 | C |
-| 50–59 | D |
-| Below 50 | F |
+| 90–100% | A+ |
+| 80–89% | A |
+| 70–79% | B |
+| 60–69% | C |
+| 50–59% | D |
+| Below 50% | F |
 
 ---
 
-## 📚 Concepts Used
+# 📚 Concepts Used
 
+- Object-Oriented Programming (OOP)
+- Classes and Objects
 - Variables and Data Types
-- User Input (`Scanner`)
+- User Input using `Scanner`
 - Loops
 - Conditional Statements (`if-else`)
+- Methods
 - Arithmetic Operations
-- Methods (Optional)
-- Console-based Application Development
 
 ---
 
-## 🎯 Future Improvements
+# 🎯 Future Improvements
 
-- GUI using Java Swing or JavaFX
+- Develop a GUI using Java Swing or JavaFX
 - Store student records in a database
 - Export results to PDF or Excel
-- Multiple student management
-- GPA/CGPA calculation
-- Subject-wise grade analysis
+- Manage multiple student records
+- Add GPA/CGPA calculation
+- Generate subject-wise performance reports
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
-Contributions are welcome. Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
+Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
 
 ---
 
-## 👨‍💻 Author
+# 📄 License
 
-**Mayank Kapoor**
+This project is licensed under the **MIT License**.
+
+---
+
+# 👨‍💻 Author
+
+# **Mayank Kapoor**
 
 GitHub: https://github.com/kapoormayank9696
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+⭐ If you found this project helpful, consider giving it a **Star the README more professional for GitHub.
